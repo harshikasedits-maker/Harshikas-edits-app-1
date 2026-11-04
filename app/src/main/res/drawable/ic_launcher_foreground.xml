@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Royal Crown Jewels & Peaks -->
+    <!-- Center crown peak -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,23 L57.5,31 L50.5,31 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,21 A1.8,1.8 0 1 0 54,24.6 A1.8,1.8 0 1 0 54,21 Z" />
+    <!-- Left crown peak -->
+    <path
+        android:fillColor="#E5B842"
+        android:pathData="M44,27 L48,32 L42,33 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M43,25.5 A1.5,1.5 0 1 0 43,28.5 A1.5,1.5 0 1 0 43,25.5 Z" />
+    <!-- Right crown peak -->
+    <path
+        android:fillColor="#E5B842"
+        android:pathData="M64,27 L66,33 L60,32 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M65,25.5 A1.5,1.5 0 1 0 65,28.5 A1.5,1.5 0 1 0 65,25.5 Z" />
+
+    <!-- Crown Base Band -->
+    <path
+        android:fillColor="#F6C443"
+        android:pathData="M40,32 L68,32 L66,36 L42,36 Z" />
+
+    <!-- Royal Crest Shield Outline -->
+    <path
+        android:fillColor="#152744"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="2"
+        android:pathData="M34,39 L74,39 C74,58 66,74 54,82 C42,74 34,58 34,39 Z" />
+
+    <!-- Inner Crest Border Accent -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#70D4AF37"
+        android:strokeWidth="0.8"
+        android:pathData="M37,42 L71,42 C71,57 64,71 54,78 C44,71 37,57 37,42 Z" />
+
+    <!-- Monogram 'H' -->
+    <!-- Left bar of H -->
+    <path
+        android:fillColor="#FFF4D0"
+        android:pathData="M42,47 L45,47 L45,67 L42,67 Z" />
+    <!-- Right bar of H -->
+    <path
+        android:fillColor="#FFF4D0"
+        android:pathData="M49,47 L52,47 L52,67 L49,67 Z" />
+    <!-- Crossbar of H -->
+    <path
+        android:fillColor="#FFF4D0"
+        android:pathData="M45,55.5 L49,55.5 L49,58.5 L45,58.5 Z" />
+
+    <!-- Monogram 'E' -->
+    <!-- Back spine of E -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M56,47 L59,47 L59,67 L56,67 Z" />
+    <!-- Top bar of E -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M59,47 L66,47 L66,50 L59,50 Z" />
+    <!-- Middle bar of E -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M59,55.5 L64.5,55.5 L64.5,58.5 L59,58.5 Z" />
+    <!-- Bottom bar of E -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M59,64 L66,64 L66,67 L59,67 Z" />
+
+    <!-- Small Star under HE -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,70 L55.2,73 L58,73 L55.8,74.5 L56.6,77 L54,75.3 L51.4,77 L52.2,74.5 L50,73 L52.8,73 Z" />
+
+</vector>
